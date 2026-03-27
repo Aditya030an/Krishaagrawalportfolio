@@ -12,7 +12,7 @@ import logo1 from "./photos/logo1.jpeg";
 import logo2 from "./photos/logo2.jpeg";
 import logo3 from "./photos/logo3.jpeg";
 import t1 from "./photos/t1.jpeg";
-import t2 from "./photos/t44.mp4";
+// import t2 from "./photos/t44.mp4";
 import b1 from "./photos/b1.png";
 import b2 from "./photos/b5.jpeg";
 import logo5 from "./photos/logo5.jpg";
@@ -20,25 +20,25 @@ import tm from "./photos/tm.jpeg";
 import tm1 from "./photos/tm1.jpeg";
 import tm2 from "./photos/tm2.jpeg";
 import tm3 from "./photos/tm3.jpeg";
-import colgate from "./photos/final.mp4";
-import mmt from "./photos/mmt.mp4";
-import Brand from "./photos/Brand.mp4";
+// import colgate from "./photos/final.mp4";
+// import mmt from "./photos/mmt.mp4";
+// import Brand from "./photos/Brand.mp4";
 import bblogo from "./photos/bblogo.png";
 import cupcake from "./photos/cupcake2.png";
 import vinatge from "./photos/vintage.png";
 import star from "./photos/star.png";
 import star1 from "./photos/star1.png";
 import star2 from "./photos/star2.png";
-import riha from "./photos/rihalogo.jpeg";
+// import riha from "./photos/rihalogo.jpeg";
 import story from "./photos/new.jpeg";
 import ww33 from "./photos/ww33.jpeg";
 import ww55 from "./photos/ww55.png";
-import tana from "./photos/tanabanavideo.mp4"
+// import tana from "./photos/tanabanavideo.mp4"
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
-import reel from "./photos/reel.mov"
+// import reel from "./photos/reel.mov"
 // import reel1 from "./photos/reel1.mp4"
 import banner from "./photos/banner01.jpeg"
 // import halidiram from "./photos/haldiram.mp4"

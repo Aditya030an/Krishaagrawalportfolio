@@ -130,8 +130,8 @@
 
 
 import React, { useRef, useState } from "react";
-import videoFile from "./photos/videoFile.mp4";
-import { FaPlay, FaPause, FaInstagram } from "react-icons/fa";
+// import videoFile from "./photos/videoFile.mp4";
+// import { FaPlay, FaPause, FaInstagram } from "react-icons/fa";
 
 import m1 from "./photos/i1.jpeg";
 import m2 from "./photos/i2.jpeg";
