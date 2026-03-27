@@ -63,7 +63,7 @@
 
 
 import React from "react";
-import profile from "./photos/fixed.png";
+import profile from "./photos/Fixed.png";
 
 const Resume = () => {
   return (
