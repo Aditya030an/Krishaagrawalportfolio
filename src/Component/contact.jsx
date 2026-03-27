@@ -99,7 +99,7 @@
 
 import React from "react";
 import teddy from "./photos/teddy1.png";
-import loaderImg from "./photos/loader.mp4";
+// import loaderImg from "./photos/loader.mp4";
 import Brand from "./Brandstory";
 
 const Contact = () => {
@@ -130,7 +130,7 @@ const Contact = () => {
           </div>
 
           {/* RIGHT VIDEO */}
-          <div className="flex justify-center md:justify-end">
+          {/*<div className="flex justify-center md:justify-end">
 
             <video
               src={loaderImg}
@@ -141,7 +141,7 @@ const Contact = () => {
               className="h-full w-[420px] object-contain"
             />
 
-          </div>
+          </div>*/}
 
         </div>
       </section>

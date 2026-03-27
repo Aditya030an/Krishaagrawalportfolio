@@ -39,10 +39,10 @@ import { Navigation } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
 import reel from "./photos/reel.mov"
-import reel1 from "./photos/reel1.mp4"
+// import reel1 from "./photos/reel1.mp4"
 import banner from "./photos/banner01.jpeg"
-import halidiram from "./photos/haldiram.mp4"
-import makemytrip from "./photos/makemytrip .mp4"
+// import halidiram from "./photos/haldiram.mp4"
+// import makemytrip from "./photos/makemytrip .mp4"
 const workdata = [
   {
     title: "UI Designing For Navnirman Architects",
@@ -392,7 +392,7 @@ const work = () => {
 
       <div>
         <audio controls className="w-full rounded-lg">
-          <source src={halidiram} type="audio/mpeg" />
+          {/* <source src={halidiram} type="audio/mpeg" /> */}
           Your browser does not support audio.
         </audio>
       </div>
@@ -425,7 +425,7 @@ const work = () => {
 
       <div>
         <audio controls className="w-full rounded-lg">
-          <source src={makemytrip} type="audio/mpeg" />
+          {/* <source src={makemytrip} type="audio/mpeg" /> */}
           Your browser does not support audio.
         </audio>
       </div>
