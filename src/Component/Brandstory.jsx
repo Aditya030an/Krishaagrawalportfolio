@@ -131,13 +131,13 @@
 
 import React, { useRef, useState } from "react";
 // import videoFile from "./photos/videoFile.mp4";
-// import { FaPlay, FaPause, FaInstagram } from "react-icons/fa";
+import { FaInstagram } from "react-icons/fa";
 
 import m1 from "./photos/i1.jpeg";
 import m2 from "./photos/i2.jpeg";
 import m3 from "./photos/i3.jpeg";
 import m4 from "./photos/i4.jpeg";
-import m5 from "./photos/loaderimg.jpeg";
+import m5 from "./photos/loaderImg.jpeg";
 import m6 from "./photos/m6.jpeg";
 import work from "./photos/work1.png";
 import tana from "./photos/tanabana.png";
